@@ -38,7 +38,7 @@ void moveZeroes(vector<int>& nums) {
 }
 
 int main() {
-    // Example usage
+    // Example
     vector<int> nums = {0, 1, 0, 3, 12};
     moveZeroes(nums);
     
@@ -75,7 +75,7 @@ void moveZeroes(vector<int>& nums) {
 }
 
 int main() {
-    // Example usage
+    // Example
     vector<int> nums = {0};
     moveZeroes(nums);
     
